@@ -1,0 +1,15 @@
+Settings.application =
+  firstNameBasis:
+    chromie: "Google Chrome"
+    subbit: "Sublime Text"
+    skippy: "Skype"
+    termite: "iTerm 2"
+    faindor: "Path Finder"
+    tradam: "Atom"
+    saffron: "Safari"
+    slacker: "Slack"
+    tammy: "Terminal"
+    hippy: "Hip Chat"
+    finder: "Path Finder"
+    code: "Visual Studio Code"
+    voice: "VoiceCode"
