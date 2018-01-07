@@ -1,6 +1,7 @@
 Settings.vocabulary = {
   translations: {
     'connie': 'const'
+    'constance': 'constants'
     'lenny': 'length'
     'nelly': 'null'
     'nellie': 'null'
@@ -23,6 +24,11 @@ Settings.vocabulary = {
     'pics': 'px'
     'heather': 'header'
     'wait': 'weight'
-    'jason': 'json'
+    'jason': 'json',
+    'full-back': 'fallback',
+    'web pack': 'webpack',
+    'plug-in': 'plugin',
+    'bites': 'bytes',
+    'paz': 'parse'
   }
 }
