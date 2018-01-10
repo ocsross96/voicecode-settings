@@ -29,6 +29,7 @@ Settings.vocabulary = {
     'web pack': 'webpack',
     'plug-in': 'plugin',
     'bites': 'bytes',
-    'paz': 'parse'
+    'paz': 'parse',
+    'hash': '#'
   }
 }
