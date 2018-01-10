@@ -30,6 +30,7 @@ Settings.vocabulary = {
     'plug-in': 'plugin',
     'bites': 'bytes',
     'paz': 'parse',
-    'hash': '#'
+    'hash': '#',
+    'low-': 'lodash'
   }
 }
